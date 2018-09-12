@@ -46,7 +46,7 @@ data = digits.images.reshape((n_samples, -1))
 # pandas to visualize data transformation
 df = pd.DataFrame(data)
 df.info()
-df.iloc[0][0]
+df.head()
 
 # boot the algorithm
 classifier = svm.SVC(gamma=0.001)
