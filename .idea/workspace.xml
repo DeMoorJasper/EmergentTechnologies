@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7bd86df-16bb-47d5-ac40-88031d772cff" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/info/exclude" beforeDir="false" afterPath="$PROJECT_DIR$/info/exclude" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo/digit_classifier.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo/digit_classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/digit_classifier.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +15,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/EmergentTechnologies$EmergentTechnologies.coverage" NAME="EmergentTechnologies Coverage Results" MODIFIED="1536664711081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/EmergentTechnologies$gym_test.coverage" NAME="gym_test Coverage Results" MODIFIED="1536672578819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/OpenAIGym" />
+    <SUITE FILE_PATH="coverage/EmergentTechnologies$code.coverage" NAME="code Coverage Results" MODIFIED="1536749537740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="693941759">
@@ -30,7 +33,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="exclude" value="2" />
-          <entry key="ipynb" value="7" />
+          <entry key="ipynb" value="8" />
           <entry key="md" value="2" />
           <entry key="py" value="5" />
           <entry key="sample" value="1" />
@@ -38,7 +41,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IPNB" value="7" />
+          <entry key="IPNB" value="8" />
           <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="Python" value="5" />
@@ -46,17 +49,18 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="Python Console" value="327" />
           <entry key="dummy" value="43" />
-          <entry key="exclude" value="66" />
+          <entry key="exclude" value="136" />
           <entry key="md" value="713" />
-          <entry key="py" value="264" />
+          <entry key="py" value="1612" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="713" />
-          <entry key="PLAIN_TEXT" value="109" />
-          <entry key="Python" value="264" />
+          <entry key="PLAIN_TEXT" value="179" />
+          <entry key="Python" value="1939" />
         </counts>
       </usages-collector>
     </session>
@@ -64,19 +68,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Demo/digit_classifier.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="3" />
+        <entry file="file://$PROJECT_DIR$/info/exclude">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/info/exclude">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <entry file="file://$PROJECT_DIR$/src/Demo/digit_classifier.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="2" />
             </state>
           </provider>
         </entry>
@@ -105,8 +109,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Demo/digit_classifier.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="30" column="45" lean-forward="true" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+            <state relative-caret-position="250">
+              <caret line="23" column="48" selection-end-line="74" selection-end-column="10" />
               <folding>
                 <element signature="e#132#163#0" expanded="true" />
               </folding>
@@ -119,8 +123,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -141,6 +145,8 @@
         <option value="$PROJECT_DIR$/src/notes.md" />
         <option value="$PROJECT_DIR$/src/OpenAIGym/gym_test.py" />
         <option value="$PROJECT_DIR$/info/exclude" />
+        <option value="$PROJECT_DIR$/src/Demo/digit_classifier.py" />
+        <option value="$PROJECT_DIR$/src/Demo/digit_classifier.ipynb" />
       </list>
     </option>
   </component>
@@ -151,10 +157,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="510" />
-    <option name="y" value="-15" />
-    <option name="width" value="1440" />
-    <option name="height" value="765" />
+    <option name="x" value="2570" />
+    <option name="y" value="-19" />
+    <option name="width" value="1242" />
+    <option name="height" value="678" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -171,11 +177,6 @@
             <path>
               <item name="EmergentTechnologies" type="b2602c69:ProjectViewProjectNode" />
               <item name="EmergentTechnologies" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EmergentTechnologies" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EmergentTechnologies" type="462c0819:PsiDirectoryNode" />
-              <item name="info" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="EmergentTechnologies" type="b2602c69:ProjectViewProjectNode" />
@@ -222,7 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.gym_test">
+  <component name="RunManager" selected="Python.code">
     <configuration name="EmergentTechnologies" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="EmergentTechnologies" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -239,6 +240,28 @@
       <option name="additionalOptions" value="" />
       <option name="ipnbHost" value="127.0.0.1" />
       <option name="ipnbPort" value="8888" />
+      <method v="2" />
+    </configuration>
+    <configuration name="code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="EmergentTechnologies" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="/code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="gym_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -266,9 +289,11 @@
     <list>
       <item itemvalue="Jupyter Notebook.EmergentTechnologies" />
       <item itemvalue="Python.gym_test" />
+      <item itemvalue="Python.code" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.code" />
         <item itemvalue="Python.gym_test" />
       </list>
     </recent_temporary>
@@ -287,15 +312,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33825505" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26865673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43120566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43058568" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -304,12 +329,12 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32907802" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3286334" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.3295302" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.32942432" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -354,16 +379,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Demo/digit_classifier.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="30" column="45" lean-forward="true" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
-          <folding>
-            <element signature="e#132#163#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Digit_classifier.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -371,17 +386,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Demo/digit_classifier.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
+    <entry file="file://$PROJECT_DIR$/src/Demo/digit_classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="23" column="48" selection-end-line="74" selection-end-column="10" />
+          <folding>
+            <element signature="e#132#163#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/info/exclude">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="187">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Demo/digit_classifier.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
         </state>
       </provider>
     </entry>
