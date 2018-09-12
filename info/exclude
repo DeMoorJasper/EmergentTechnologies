@@ -4,3 +4,9 @@
 # exclude patterns (uncomment them if you want to use them):
 # *.[oa]
 # *~
+
+#ignores venv changes. only for me not for students
+venv/
+
+#ignores the jupyter notebook checkpoint changes
+.ipynb_checkpoints/
