@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7bd86df-16bb-47d5-ac40-88031d772cff" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Excercices/numpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Excercices/numpy.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,18 +48,18 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="796" />
+          <entry key="Python Console" value="808" />
           <entry key="dummy" value="43" />
           <entry key="exclude" value="136" />
           <entry key="md" value="713" />
-          <entry key="py" value="2655" />
+          <entry key="py" value="3598" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="713" />
           <entry key="PLAIN_TEXT" value="179" />
-          <entry key="Python" value="3451" />
+          <entry key="Python" value="4406" />
         </counts>
       </usages-collector>
     </session>
@@ -109,7 +109,7 @@
         <entry file="file://$PROJECT_DIR$/src/Excercices/numpy.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="13" />
+              <selected id="18" />
             </state>
           </provider>
         </entry>
@@ -164,10 +164,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2570" />
-    <option name="y" value="-19" />
-    <option name="width" value="1242" />
-    <option name="height" value="678" />
+    <option name="x" value="2538" />
+    <option name="y" value="-27" />
+    <option name="width" value="994" />
+    <option name="height" value="542" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -335,7 +335,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.32942432" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.1748401" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -408,7 +408,7 @@
     <entry file="file://$PROJECT_DIR$/src/Excercices/numpy.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="13" />
+          <selected id="18" />
         </state>
       </provider>
     </entry>
