@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a7bd86df-16bb-47d5-ac40-88031d772cff" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Demo/Iforest_wine.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scripts_test/Iforest_wine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo/Isolation_forest_example.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/Isolation_forest_example.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Excercices/numpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices Solutions/numpy_solution.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Excercices/numpy_warmup.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercices Solutions/numpy_warmup_solution.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +14,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/EmergentTechnologies$Isolation_forest_example.coverage" NAME="Isolation_forest_example Coverage Results" MODIFIED="1537191199345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Demo" />
     <SUITE FILE_PATH="coverage/EmergentTechnologies$Iforest_wine.coverage" NAME="Iforest_wine Coverage Results" MODIFIED="1537197617533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Demo" />
-    <SUITE FILE_PATH="coverage/EmergentTechnologies$EmergentTechnologies.coverage" NAME="EmergentTechnologies Coverage Results" MODIFIED="1537189193833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/EmergentTechnologies$Isolation_forest_example.coverage" NAME="Isolation_forest_example Coverage Results" MODIFIED="1537260776493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Demo" />
+    <SUITE FILE_PATH="coverage/EmergentTechnologies$EmergentTechnologies.coverage" NAME="EmergentTechnologies Coverage Results" MODIFIED="1537260497784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/EmergentTechnologies$Iforest_liverpatients.coverage" NAME="Iforest_liverpatients Coverage Results" MODIFIED="1537200075032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Scripts_test" />
     <SUITE FILE_PATH="coverage/EmergentTechnologies$gym_test.coverage" NAME="gym_test Coverage Results" MODIFIED="1536751721677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/OpenAIGym" />
+    <SUITE FILE_PATH="coverage/EmergentTechnologies$Iforest_gauss.coverage" NAME="Iforest_gauss Coverage Results" MODIFIED="1537256840159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Scripts_test" />
     <SUITE FILE_PATH="coverage/EmergentTechnologies$code.coverage" NAME="code Coverage Results" MODIFIED="1536749537740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/EmergentTechnologies$iforest_exoplanet.coverage" NAME="iforest_exoplanet Coverage Results" MODIFIED="1537201240984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Scripts_test" />
   </component>
@@ -34,6 +37,42 @@
     <expand />
     <select />
   </component>
+  <component name="DockManager">
+    <window id="2">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/src/Exercices Solutions/Iforest_solution.ipynb">
+                <provider selected="true" editor-type-id="ipnb-editor">
+                  <state>
+                    <selected id="17" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/src/Scripts_test/Iforest_gauss.py">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="586">
+                    <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="693941759">
       <usages-collector id="statistics.lifecycle.project">
@@ -43,27 +82,28 @@
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="exclude" value="2" />
-          <entry key="ipynb" value="13" />
+          <entry key="ipynb" value="21" />
           <entry key="md" value="2" />
-          <entry key="py" value="13" />
+          <entry key="py" value="15" />
           <entry key="sample" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IPNB" value="13" />
+          <entry key="IPNB" value="21" />
           <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="13" />
+          <entry key="Python" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -72,14 +112,14 @@
           <entry key="dummy" value="43" />
           <entry key="exclude" value="136" />
           <entry key="md" value="713" />
-          <entry key="py" value="9525" />
+          <entry key="py" value="10205" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="713" />
           <entry key="PLAIN_TEXT" value="179" />
-          <entry key="Python" value="10413" />
+          <entry key="Python" value="11093" />
         </counts>
       </usages-collector>
     </session>
@@ -87,7 +127,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Excercices/numpy_warmup.ipynb">
+        <entry file="file://$PROJECT_DIR$/src/Exercices Solutions/numpy_solution.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Scripts_test/iforest_exoplanet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="25" selection-end-line="51" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Excercices/Iforest.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="18" />
@@ -99,43 +157,16 @@
         <entry file="file://$PROJECT_DIR$/src/Excercices/numpy.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="7" />
+              <selected id="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Scripts_test/Iforest_wine.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="19" column="21" selection-end-line="53" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#52#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Scripts_test/Iforest_liverpatients.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="53" column="10" lean-forward="true" selection-end-line="53" selection-end-column="10" />
-              <folding>
-                <element signature="e#185#237#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Scripts_test/iforest_exoplanet.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-              <folding>
-                <element signature="e#181#233#0" expanded="true" />
-              </folding>
+        <entry file="file://$PROJECT_DIR$/src/Excercices/numpy_warmup.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="18" />
             </state>
           </provider>
         </entry>
@@ -143,29 +174,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/sklearn/utils/validation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
+            <state relative-caret-position="527">
               <caret line="43" selection-start-line="43" selection-end-line="43" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Demo/Isolation_forest_example.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Demo/Isolation_forest_example.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="31" selection-start-line="31" selection-end-line="40" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
+              <selected id="6" />
             </state>
           </provider>
         </entry>
@@ -173,7 +192,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pandas/core/generic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
+            <state relative-caret-position="25806">
               <caret line="1575" selection-start-line="1575" selection-end-line="1575" />
             </state>
           </provider>
@@ -193,8 +212,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -224,14 +243,16 @@
         <option value="$PROJECT_DIR$/src/Excercices/numpy.py" />
         <option value="$PROJECT_DIR$/src/Demo/digit_classifier.ipynb" />
         <option value="$PROJECT_DIR$/src/Excercices/numpy_warmup.ipynb" />
-        <option value="$PROJECT_DIR$/src/Excercices/numpy.ipynb" />
         <option value="$PROJECT_DIR$/src/Demo/plot_isolation_forest.ipynb" />
         <option value="$PROJECT_DIR$/src/Demo/IsolationForest_example.ipynb" />
         <option value="$PROJECT_DIR$/src/Demo/Isolation_forest_example.py" />
-        <option value="$PROJECT_DIR$/src/Demo/Isolation_forest_example.ipynb" />
         <option value="$PROJECT_DIR$/src/Demo/Iforest_wine.py" />
         <option value="$PROJECT_DIR$/src/Scripts_test/Iforest_liverpatients.py" />
         <option value="$PROJECT_DIR$/src/Scripts_test/iforest_exoplanet.py" />
+        <option value="$PROJECT_DIR$/src/Scripts_test/Iforest_gauss.py" />
+        <option value="$PROJECT_DIR$/src/Excercices/Iforest.ipynb" />
+        <option value="$PROJECT_DIR$/src/Excercices/numpy.ipynb" />
+        <option value="$PROJECT_DIR$/src/Demo/Isolation_forest_example.ipynb" />
       </list>
     </option>
   </component>
@@ -290,6 +311,12 @@
               <item name="EmergentTechnologies" type="b2602c69:ProjectViewProjectNode" />
               <item name="EmergentTechnologies" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercices Solutions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EmergentTechnologies" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EmergentTechnologies" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Scripts_test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -300,7 +327,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../X010_NetworkSecurityDL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
@@ -314,13 +341,15 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\aaron.de.rybel\PycharmProjects\EmergentTechnologies\src" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aaron.de.rybel\PycharmProjects\EmergentTechnologies\src\Exercices Solutions" />
       <recent name="C:\Users\aaron.de.rybel\PycharmProjects\EmergentTechnologies\src\Scripts_test" />
       <recent name="C:\Users\aaron.de.rybel\PycharmProjects\EmergentTechnologies\src\Demo" />
       <recent name="C:\Users\aaron.de.rybel\PycharmProjects\EmergentTechnologies\.src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aaron.de.rybel\PycharmProjects\EmergentTechnologies\src\Excercices" />
+      <recent name="C:\Users\aaron.de.rybel\PycharmProjects\EmergentTechnologies\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -335,7 +364,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.iforest_exoplanet">
+  <component name="RunManager" selected="Python.Isolation_forest_example">
     <configuration name="EmergentTechnologies" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="EmergentTechnologies" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -352,6 +381,28 @@
       <option name="additionalOptions" value="" />
       <option name="ipnbHost" value="127.0.0.1" />
       <option name="ipnbPort" value="8888" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Iforest_gauss" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="EmergentTechnologies" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Scripts_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Scripts_test/Iforest_gauss.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="Iforest_liverpatients" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -420,28 +471,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="gym_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="EmergentTechnologies" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/OpenAIGym" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/OpenAIGym/gym_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="iforest_exoplanet" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="EmergentTechnologies" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -466,19 +495,19 @@
     </configuration>
     <list>
       <item itemvalue="Jupyter Notebook.EmergentTechnologies" />
-      <item itemvalue="Python.gym_test" />
       <item itemvalue="Python.Iforest_wine" />
       <item itemvalue="Python.Isolation_forest_example" />
       <item itemvalue="Python.Iforest_liverpatients" />
       <item itemvalue="Python.iforest_exoplanet" />
+      <item itemvalue="Python.Iforest_gauss" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Isolation_forest_example" />
+        <item itemvalue="Python.Iforest_gauss" />
         <item itemvalue="Python.iforest_exoplanet" />
         <item itemvalue="Python.Iforest_liverpatients" />
         <item itemvalue="Python.Iforest_wine" />
-        <item itemvalue="Python.Isolation_forest_example" />
-        <item itemvalue="Python.gym_test" />
       </list>
     </recent_temporary>
   </component>
@@ -499,12 +528,12 @@
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2803838" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2835821" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43058568" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.43058568" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -518,7 +547,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.44083154" />
+      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.28944564" />
       <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
     </layout>
   </component>
@@ -601,11 +630,51 @@
           <line>31</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/Scripts_test/Iforest_gauss.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/Scripts_test/Iforest_gauss.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>xx.shape</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>xx[:,0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>xx[0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>xx</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>xx.T[0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>xx.T</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>inliers</expression-string>
         <language-id>Python</language-id>
@@ -623,38 +692,6 @@
       </expression>
       <expression>
         <expression-string>5/570</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>df['LABEL'].value_counts()</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>for i in df['LABEL']:
-    print(i)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>for i in df:
-    print(i)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>min(df_patient['Dataset'].value_counts())/temp.shape[0]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>df_patient['Dataset'].value_counts()/temp.shape[0]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>df_patient['Dataset'].value_counts()</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
@@ -718,6 +755,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Demo/IsolationForest_example.ipynb" />
+    <entry file="file://$PROJECT_DIR$/src/Demo/plot_isolation_forest.ipynb" />
+    <entry file="file://$PROJECT_DIR$/src/Exercices Solutions/numpy_warmup_solution.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Scripts_test/Iforest_wine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="21" selection-end-line="53" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Scripts_test/Iforest_liverpatients.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="53" column="10" selection-end-line="53" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/sklearn/utils/validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25806">
+          <caret line="1575" selection-start-line="1575" selection-end-line="1575" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Demo/digit_classifier.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1173">
@@ -725,10 +799,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Excercices/numpy.ipynb">
+    <entry file="file://$PROJECT_DIR$/src/Scripts_test/iforest_exoplanet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" selection-end-line="51" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Scripts_test/Iforest_gauss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercices Solutions/numpy_solution.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercices Solutions/Iforest_solution.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Excercices/Iforest.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Excercices/numpy.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="6" />
         </state>
       </provider>
     </entry>
@@ -739,24 +848,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pandas/core/generic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="1575" selection-start-line="1575" selection-end-line="1575" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Demo/IsolationForest_example.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Demo/Isolation_forest_example.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="31" selection-start-line="31" selection-end-line="40" />
+        <state relative-caret-position="647">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
@@ -766,51 +861,7 @@
     <entry file="file://$PROJECT_DIR$/src/Demo/Isolation_forest_example.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Demo/plot_isolation_forest.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/sklearn/utils/validation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Scripts_test/Iforest_wine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="19" column="21" selection-end-line="53" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#52#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Scripts_test/Iforest_liverpatients.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="53" column="10" lean-forward="true" selection-end-line="53" selection-end-column="10" />
-          <folding>
-            <element signature="e#185#237#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Scripts_test/iforest_exoplanet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-          <folding>
-            <element signature="e#181#233#0" expanded="true" />
-          </folding>
+          <selected id="6" />
         </state>
       </provider>
     </entry>
