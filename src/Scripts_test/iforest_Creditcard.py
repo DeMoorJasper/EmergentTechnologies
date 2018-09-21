@@ -2,6 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.ensemble import IsolationForest
 from sklearn.preprocessing import MinMaxScaler
+from sklearn.metrics import confusion_matrix
 import numpy as np
 from sklearn.decomposition import PCA
 
@@ -59,13 +60,21 @@ mask = (inliers == 1)
 plt.figure()
 plt.title('predicted Inliers vs. Actual Inliers')
 plt.ylim(0.9, 1.6)
-plt.plot(index[mask],y[mask],color='g',label='non_malware_pred' )
 plt.scatter(index[~mask], y[~mask], color='r', label='malware_pred',
             marker='o', s=2)
 plt.scatter(index[df['Class']==1.], 1.1*y[df['Class']==1.], color='y', label='malware', marker = 'o',
             s=2, alpha=0.5)
 plt.legend(loc='upper right')
 plt.show()
+
+
+#Get confusion matrix of results.
+tn, fp, fn, tp = confusion_matrix(np.array(inliers == -1), np.array(df['Class'] == 1)).ravel()
+Metrics = {'True negatives:' : tn,
+           'False positives' : fp,
+           'False negatives' : fn,
+           'True positives' : tp}
+print(Metrics)
 df.info()
 
 
