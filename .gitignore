@@ -1,2 +1,5 @@
 #ignore all datasets
 src/data/*
+
+#ignore local virtual environment
+venv/*
