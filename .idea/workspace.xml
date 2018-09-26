@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a7bd86df-16bb-47d5-ac40-88031d772cff" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices Solutions/Iforest_solution.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices Solutions/numpy_solution.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercices Solutions/numpy_warmup_solution.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exploration/Creditcard_data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exploration/KDDcup_99.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +42,7 @@
     <session id="693941759">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="4" />
@@ -55,10 +50,10 @@
           <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="20" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -84,7 +79,7 @@
           <entry key="Python Console" value="888" />
           <entry key="dummy" value="43" />
           <entry key="exclude" value="136" />
-          <entry key="gitignore" value="63" />
+          <entry key="gitignore" value="64" />
           <entry key="md" value="713" />
           <entry key="py" value="15046" />
         </counts>
@@ -92,7 +87,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="713" />
-          <entry key="PLAIN_TEXT" value="242" />
+          <entry key="PLAIN_TEXT" value="243" />
           <entry key="Python" value="15934" />
         </counts>
       </usages-collector>
@@ -104,31 +99,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Scripts_test/iforest_KDDCup99.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1428">
-              <caret line="89" column="29" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Scripts_test/iforest_Creditcard.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1190">
-              <caret line="76" column="14" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
+              <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -156,15 +127,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="4335">
               <caret line="269" selection-start-line="269" selection-end-line="269" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Scripts_test/Iforest_gauss.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
@@ -268,7 +230,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -466,7 +428,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15033557" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15436241" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -485,7 +447,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.4489933" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.4489933" />
       <window_info anchor="right" id="Database" order="4" weight="0.32995737" />
     </layout>
   </component>
@@ -755,20 +717,8 @@ plt.show()</expression-string>
     <entry file="file://$PROJECT_DIR$/src/Demo/IsolationForest_example.ipynb" />
     <entry file="file://$PROJECT_DIR$/src/Demo/plot_isolation_forest.ipynb" />
     <entry file="file://$PROJECT_DIR$/src/Exercices Solutions/numpy_warmup_solution.ipynb" />
-    <entry file="file://$PROJECT_DIR$/src/Scripts_test/Iforest_wine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="19" column="21" selection-end-line="53" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Scripts_test/Iforest_liverpatients.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="53" column="10" selection-end-line="53" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Scripts_test/Iforest_wine.py" />
+    <entry file="file://$PROJECT_DIR$/src/Scripts_test/Iforest_liverpatients.py" />
     <entry file="file://$PROJECT_DIR$/src/Demo/Isolation_forest_example.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="647">
@@ -776,13 +726,7 @@ plt.show()</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Scripts_test/iforest_exoplanet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="25" selection-end-line="51" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Scripts_test/iforest_exoplanet.py" />
     <entry file="file://$PROJECT_DIR$/src/Excercices/numpy.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -834,50 +778,15 @@ plt.show()</expression-string>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercices Solutions/Iforest_solution.ipynb" />
+    <entry file="file://$PROJECT_DIR$/src/Exploration/KDDcup_99.py" />
+    <entry file="file://$PROJECT_DIR$/src/Exploration/Creditcard_data.py" />
+    <entry file="file://$PROJECT_DIR$/src/Scripts_test/iforest_KDDCup99.py" />
+    <entry file="file://$PROJECT_DIR$/src/Scripts_test/iforest_Creditcard.py" />
+    <entry file="file://$PROJECT_DIR$/src/Scripts_test/Iforest_gauss.py" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exploration/KDDcup_99.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exploration/Creditcard_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Scripts_test/iforest_KDDCup99.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1428">
-          <caret line="89" column="29" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Scripts_test/iforest_Creditcard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1190">
-          <caret line="76" column="14" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -899,13 +808,6 @@ plt.show()</expression-string>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4335">
           <caret line="269" selection-start-line="269" selection-end-line="269" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Scripts_test/Iforest_gauss.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
