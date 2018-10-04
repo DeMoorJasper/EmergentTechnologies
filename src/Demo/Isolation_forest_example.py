@@ -22,7 +22,7 @@ y_pred_outliers = clf.predict(X_outliers)
 
 
 plt.title("IsolationForest")
-
+#plot the different types of observations in different colors
 b1 = plt.scatter(X_train[:, 0], X_train[:, 1], c='white',
                  s=20, edgecolor='k')
 b2 = plt.scatter(X_test[:, 0], X_test[:, 1], c='green',
@@ -32,6 +32,8 @@ c = plt.scatter(X_outliers[:, 0], X_outliers[:, 1], c='red',
 bool_train = y_pred_train == -1
 bool_test = y_pred_test == -1
 bool_outlier = y_pred_outliers == -1
+
+# Mark outliers with black/gray crosses
 plt.scatter(X_train[bool_train, 0], X_train[bool_train, 1], c='black',alpha=0.5,
             s=20,marker='x')
 plt.scatter(X_test[bool_test, 0], X_test[bool_test, 1],c='black',alpha=0.5,
